@@ -1,4 +1,5 @@
-name = "vixbluesky"
+# pkgs/app/wrangler.toml
+name = 'vixbluesky'
 main = "src/index.ts"
 compatibility_date = "2026-10-13"
 
